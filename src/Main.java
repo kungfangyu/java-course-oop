@@ -24,7 +24,7 @@ public class Main extends JPanel implements KeyListener {
         People p = new People();
         System.out.println(p.address);
 
-        // polymorphism
+        // Polymorphism
         People s1 = new Student("Fane", 30, "Plummer house", 80);
         People s2 = new Student("Joe", 32, "Taiwan", 60);
 
